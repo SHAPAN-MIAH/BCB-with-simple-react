@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    background-color: rgb(98, 98, 98);
+    color: white;
+}
+span{
+    color: orange;
+}
+nav a{
+    text-decoration: none;
+    padding: 20px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+nav a:hover{
+    color: orange;
+    
+}
+nav ul{
+    margin-top: 15px;
+}

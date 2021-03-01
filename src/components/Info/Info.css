@@ -1,0 +1,35 @@
+.info-display img{
+    width: 150px;
+    margin-bottom: 5px;
+}
+.info-display{
+    border: 1px solid rgb(216, 216, 216);
+    padding: 15px 0px;
+    border-radius: 5px;
+    background-color: rgb(245, 245, 245);
+    color: rgb(47, 47, 47);
+    font-family: sans-serif;
+}
+.info-display div h6{
+    font-size: 15px;
+    color: rgb(78, 78, 78);
+}
+.info-display div{
+    padding: 10px 0px;
+    height: 70px;
+}
+.addBtn{
+    background-color: rgb(255, 145, 2);
+    color: white;
+    font-size: 17px;
+    border: 1px solid rgb(255, 255, 255);
+}
+.salary{
+    width: 150px;
+    background-color: rgb(80, 80, 80);
+    padding: 10px;
+    border-radius: 50px;
+    color:rgb(255, 255, 255);
+    margin: auto;
+    font-weight: 500;
+}

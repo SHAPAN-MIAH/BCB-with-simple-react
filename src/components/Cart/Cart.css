@@ -1,0 +1,31 @@
+.cart-display{
+    height: auto;
+    width: 328px;
+    background-color: rgb(255, 199, 199);
+    padding: 20px;
+    margin-left: 20px;
+    position: fixed;
+    border: 1px solid rgb(216, 216, 216);
+    border-radius: 5px;
+    font-family: sans-serif;
+}
+h3{
+    background-color: antiquewhite;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 5px;
+}
+
+.playerName{
+    text-align: left;
+    margin: 20px 0px;
+}
+
+.playerName h5{
+    width: 128px;
+    border-bottom: 1px solid grey;
+}
+.budget{
+   background-color: rgb(195, 195, 195);
+   padding: 10px 0px;
+   border-radius: 50px;
+}
